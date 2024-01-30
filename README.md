@@ -24,7 +24,8 @@ Replace {environment name} with which name you would like to give your virtual e
 Activate Virtual Environment
 For Windows
 ```bash
-  source {environment name}/Scripts/activate
+  cd  {environment name}/Scripts/
+  activate.bat
 ```
 For Mac or Linux
 ```bash
